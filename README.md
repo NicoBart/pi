@@ -32,9 +32,14 @@ Update your Apt repositories and install Grafana
 sudo apt-get update
 sudo apt-get install grafana
 
+Connect to http://localhost:3000/
+and login as admin / admin
+
 ## Install Influxdb
 
 https://docs.influxdata.com/influxdb/v1.6/introduction/installation/
 
 sudo apt-get update && sudo apt-get install influxdb
+
+Connect to http://localhost:8083
 
