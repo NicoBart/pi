@@ -48,8 +48,11 @@ Connect to http://localhost:8083
 
 ## Python libraries
 
-pip install --upgrade pip
+Note: do no run following command
+pip3 install --upgrade pip
 
+In case you run it, run command below to revert to revert to pip 8.1.1
+python3 -m pip install --user --upgrade pip==8.1.1
 
 pip3 install pyHS100
 pip3 install phue
