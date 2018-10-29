@@ -36,4 +36,5 @@ sudo apt-get install grafana
 
 https://docs.influxdata.com/influxdb/v1.6/introduction/installation/
 
+sudo apt-get update && sudo apt-get install influxdb
 
