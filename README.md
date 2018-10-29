@@ -46,5 +46,27 @@ sudo apt-get update && sudo apt-get install -y influxdb influxdb-client
 
 Connect to http://localhost:8083
 
+## Python libraries
+
+Note: do no run following command
+pip3 install --upgrade pip
+
+In case you run it, run command below to revert to revert to pip 8.1.1
+python3 -m pip install --user --upgrade pip==8.1.1
+
+pip3 install pyHS100
+pip3 install phue
+pip3 install influxdb
+
+TPLink smart plugs/switches and smart bulbs 
+https://github.com/GadgetReactor/pyHS100
+
+Philips Hue
+https://github.com/studioimaginaire/phue
+
+Influxdb
+https://github.com/influxdata/influxdb-python
+
+
 
 
