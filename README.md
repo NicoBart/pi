@@ -5,7 +5,7 @@ Smart home
 
 http://docs.grafana.org/guides/getting_started/
 
-
+https://docs.influxdata.com/influxdb/v1.6/introduction/getting-started/
 
 
 ## Setup
