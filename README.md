@@ -3,6 +3,9 @@ Smart home
 
 ## Documentation
 
+http://docs.grafana.org/guides/getting_started/
+
+
 
 
 ## Setup
@@ -39,7 +42,9 @@ and login as admin / admin
 
 https://docs.influxdata.com/influxdb/v1.6/introduction/installation/
 
-sudo apt-get update && sudo apt-get install influxdb
+sudo apt-get update && sudo apt-get install -y influxdb influxdb-client
 
 Connect to http://localhost:8083
+
+
 
