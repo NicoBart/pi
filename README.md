@@ -57,6 +57,7 @@ python3 -m pip install --user --upgrade pip==8.1.1
 pip3 install pyHS100
 pip3 install phue
 pip3 install influxdb
+pip3 install schedule
 
 TPLink smart plugs/switches and smart bulbs 
 https://github.com/GadgetReactor/pyHS100
@@ -67,6 +68,8 @@ https://github.com/studioimaginaire/phue
 Influxdb
 https://github.com/influxdata/influxdb-python
 
+Schedule
+https://github.com/dbader/schedule
 
 
 
